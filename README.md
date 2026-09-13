@@ -29,6 +29,17 @@ The project focuses on building a semantic web gallery while applying essential 
 * **Alignment, Spacing & Interactive States**
   Manage grid item alignment, aspect ratios, image cropping, and interactive hover/focus states to deliver a polished visual experience.
 
+## Project Structure
+
+* **Homepage (`index.html`)**
+  The primary HTML document containing semantic gallery markup, image items, figure containers, captions, and structural containers.
+
+* **Styles (`css/style.css`)**
+  Contains custom CSS styling, CSS Grid layout definitions, gap spacing, hover effects, object-fit rules, and responsive breakpoints.
+
+* **Assets (`assets/`)**
+  Directory containing project images, favicons, Open Graph images, and `project-preview.png`.
+
 
 
 This repository contains frontend projects built following the [Roadmap.sh](https://roadmap.sh/projects/image-grid) frontend developer path.
