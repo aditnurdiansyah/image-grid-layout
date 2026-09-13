@@ -52,4 +52,22 @@ The project focuses on building a semantic web gallery while applying essential 
 * [x] Proper aspect ratio handling and image scaling with `object-fit`.
 * [x] Interactive hover and focus visual feedback.
 
+## How to Use
+
+1. Clone or download this repository.
+
+```bash
+git clone https://github.com/aditnurdiansyah/image-grid-layout
+```
+
+2. Navigate to the project folder.
+
+```bash
+cd image-grid-layout
+```
+
+3. Open `index.html` in your browser.
+
+4. Customize the styling, grid track definitions, and image items according to your layout requirements.
+
 This repository contains frontend projects built following the [Roadmap.sh](https://roadmap.sh/projects/image-grid) frontend developer path.
