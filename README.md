@@ -76,4 +76,10 @@ This project provides practical experience in designing and building a responsiv
 
 By completing this project, the layout serves as a reusable gallery element suitable for photography showcases, portfolio galleries, product displays, and media dashboard interfaces.
 
+## Project Preview
+
+<p align="center">
+  <img src="/assets/project-preview.png" alt="Project Preview" width="800">
+</p>
+
 This repository contains frontend projects built following the [Roadmap.sh](https://roadmap.sh/projects/image-grid) frontend developer path.
