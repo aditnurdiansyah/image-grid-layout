@@ -40,6 +40,16 @@ The project focuses on building a semantic web gallery while applying essential 
 * **Assets (`assets/`)**
   Directory containing project images, favicons, Open Graph images, and `project-preview.png`.
 
+## Submission Checklist
 
+* [x] Semantically structured HTML page.
+* [x] SEO meta tags implemented.
+* [x] Open Graph tags included.
+* [x] Favicon configured.
+* [x] Responsive layout across different viewport sizes.
+* [x] Accessible image gallery with descriptive alt tags and semantic markup.
+* [x] Clean alignment and balanced spacing using CSS Grid gap properties.
+* [x] Proper aspect ratio handling and image scaling with `object-fit`.
+* [x] Interactive hover and focus visual feedback.
 
 This repository contains frontend projects built following the [Roadmap.sh](https://roadmap.sh/projects/image-grid) frontend developer path.
